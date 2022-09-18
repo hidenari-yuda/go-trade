@@ -1,0 +1,8 @@
+*.env
+*DS_Store
+
+*config.ini
+
+*go_trade.log
+
+*stock_data.sql
